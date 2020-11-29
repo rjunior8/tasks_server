@@ -1,0 +1,4 @@
+__pycache__/
+redis-6.0.9/
+*.gz
+celerybeat-schedule
